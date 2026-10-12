@@ -199,6 +199,27 @@ En este proyecto se aplicaron medidas básicas de seguridad y buenas prácticas:
 - Validación de campos obligatorios
 - Manejo de errores y respuestas controladas
 
+## Variables de entorno
+
+El archivo `.env` no se incluye en el repositorio porque puede contener credenciales sensibles.
+
+Para configurar el proyecto:
+
+1. Copiar el archivo `.env.example`.
+2. Renombrar la copia como `.env`.
+3. Completar los datos de conexión de PostgreSQL.
+
+Ejemplo:
+
+```env
+PG_HOST=localhost
+PG_PORT=5432
+PG_USER=postgres
+PG_PASSWORD=TU_PASSWORD
+PG_DATABASE=cib302_semana9.
+PORT=3000
+```
+
 ## Repositorio
 
 Aquí se encuentra el código fuente del proyecto:
