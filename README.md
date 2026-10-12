@@ -43,7 +43,7 @@ Además, se aplican buenas prácticas básicas de desarrollo backend como:
 
 ```text
 Proyecto Semana 9
-├── .env
+├── .env.example
 ├── .gitignore
 ├── API Clientes - Semana 9.postman_collection.json
 ├── index.js
