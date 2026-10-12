@@ -98,7 +98,7 @@ Para utilizarlo:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [https://github.com/TU-USUARIO/api-clientes-semana-9.git](https://github.com/TU-USUARIO/api-clientes-semana-9.git)
+git clone https://github.com/MatiasAquea/api-clientes-semana-9.git
 ```
 
 ### 2. Entrar a la carpeta del proyecto
