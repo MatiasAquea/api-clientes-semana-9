@@ -50,6 +50,7 @@ Proyecto Semana 9
 ├── package-lock.json
 ├── package.json
 ├── README.md
+├── database.sql
 └── src
     ├── app.js
     ├── db.js
@@ -80,7 +81,18 @@ CREATE TABLE cliente (
   createdat TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 ```
+## Script de base de datos
 
+El archivo `database.sql` contiene la estructura de la tabla `cliente`.
+
+Para utilizarlo:
+
+1. Crear la base de datos `cib302_semana9` en PostgreSQL.
+2. Abrir el archivo `database.sql` en pgAdmin.
+3. Seleccionar la base de datos `cib302_semana9`.
+4. Ejecutar el script.
+5. Confirmar que la tabla `cliente` fue creada correctamente.
+   
 ## Instalación
 
 ### 1. Clonar el repositorio
