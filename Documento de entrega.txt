@@ -1,0 +1,19 @@
+ACTIVIDAD SUMATIVA – SEMANA 9
+
+Asignatura: CIB302 – Taller de plataformas web
+Estudiante: Matías Aquea
+Proyecto: API REST de Clientes
+
+Repositorio GitHub:
+https://github.com/MatiasAquea/api-clientes-semana-9.git
+
+Video explicativo:
+https://www.youtube.com/watch?v=6wCjrH-A-4A
+
+Descripción breve:
+Se implementó una API REST con Node.js, Express y PostgreSQL
+para administrar clientes mediante operaciones CRUD:
+crear, consultar, actualizar y eliminar.
+
+La API fue probada utilizando Postman y contempla el manejo
+de errores para clientes inexistentes y correos duplicados.
